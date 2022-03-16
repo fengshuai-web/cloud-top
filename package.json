@@ -15,11 +15,11 @@
     "工作流"
   ],
   "bugs": {
-    "url": "https://github.com/Kchengz/cloud-top-form-design/issues"
+    "url": "https://github.com/fengshuai-web/cloud-top/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kchengz/cloud-top-form-design"
+    "url": "https://github.com/fengshuai-web/cloud-top"
   },
   "main": "lib/cloud-top-form-design.umd.min.js",
   "scripts": {
